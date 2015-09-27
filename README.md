@@ -22,7 +22,7 @@ By the end of this module you will have designed and built your first website. I
 Here we'll learn how to use [Sketch](http://bohemiancoding.com/sketch/). Some people design straight in code, some people just sketch a general concept, some design in photoshop. I've grown to really like Sketch. It's very intuitive and made specifically for digital product design so that's what we'll cover in the lesson, but feel free to use any medium to design the look and feel. Remember that this is our first website so don't get too crazy with a fancy design because whatever we design here we'll have to build later. A wireframe isn't set in stone, as you build you might find that other layouts, elements, etc. work better so treat your design as just a starting point.
 
 #### Lesson
-- [Design a login form](http://webdesign.tutsplus.com/tutorials/sketch-for-beginners-design-a-login-form-interface--cms-21534) ** - 2 hours**
+- [Design a login form](http://webdesign.tutsplus.com/tutorials/sketch-for-beginners-design-a-login-form-interface--cms-21534) - **2 hours**
 
 #### Project
 For our first website we'll be making a static website to raise awareness for your favorite cause (human trafficking, aides, world hunger, contraception in India, etc.). We'll limit ourselves to a single page. Using a variety of boxes, images, and text create the most compelling design for your cause.
@@ -30,7 +30,7 @@ For our first website we'll be making a static website to raise awareness for yo
 ### Building
 
 #### Lesson
-- [Make a website](https://www.codecademy.com/en/skills/make-a-website) ** - 3 hours**
+- [Make a website](https://www.codecademy.com/en/skills/make-a-website) - **3 hours**
 
 #### Project
 We'll get started by setting up our *development environment*. First download our text editor, [Atom](https://atom.io/). We'll use atom to edit our code. Now we need someway to get and save our code to the internet so we can collaborate with other coders and create snapshots of our code over time, so let's download [Github for Desktop](https://desktop.github.com/). If you don't already have a Github Account [create one](https://github.com/join). Now for our file system. We need somewhere to save all of our cool projects. Let's create a new folder in our home directory (typically this is the your name or the name of your computer) called `Code`.
