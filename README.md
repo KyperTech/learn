@@ -29,7 +29,7 @@ Here we'll learn how to use [Sketch](http://bohemiancoding.com/sketch/). Some pe
 - [Design a login form](http://webdesign.tutsplus.com/tutorials/sketch-for-beginners-design-a-login-form-interface--cms-21534) - **2 hours**
 
 #### Project
-For our first website we'll be making a static website to raise awareness for your favorite cause (human trafficking, aides, world hunger, contraception in India, etc.). We'll limit ourselves to a single page. Using a variety of boxes, images, and text create the most compelling design for your cause.
+For our first website we'll be making a static website to raise awareness for your favorite cause (human trafficking, aides, world hunger, contraception in India, car racing club, etc.). We'll limit ourselves to a single page. Using a variety of boxes, images, and text create the most compelling design for your cause.
 
 ### Building
 
