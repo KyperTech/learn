@@ -9,5 +9,5 @@
 * [Data and interactivity](data-and-interactivity/data-and-interactivity.md)
    * [Designing](data-and-interactivity/designing.md)
    * [Building](data-and-interactivity/data-and-interactivity/building.md)
-   * Deploying
+   * [Deploying](data-and-interactivity/deploying.md)
 
