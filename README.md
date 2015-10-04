@@ -6,8 +6,7 @@ This is a work in progress and currently only covers basic web development. Keep
 <!-- Each lesson will specify what tabs should be open and approximately how long it will take. -->
 
 
-## First website
-By the end of this module you will have designed and built your first website. It's not going to be pretty and probably won't generate 1 million views, but you'll have code that is internet ready.
+
 
 ### Designing
 Here we'll learn how to use [Sketch](http://bohemiancoding.com/sketch/). Some people design straight in code, some people just sketch a general concept, some design in photoshop. I've grown to really like Sketch. It's very intuitive and made specifically for digital product design so that's what we'll cover in the lesson, but feel free to use any medium to design the look and feel. Remember that this is our first website so don't get too crazy with a fancy design because whatever we design here we'll have to build later. A wireframe isn't set in stone, as you build you might find that other layouts, elements, etc. work better so treat your design as a starting point.
