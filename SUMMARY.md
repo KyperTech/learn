@@ -7,7 +7,7 @@
    * [Building](first-website/building.md)
    * [Deploying](first-website/deploying.md)
 * Data and interactivity
-   * Designing
+   * [Designing](data-and-interactivity/designing.md)
    * Building
    * Deploying
 
