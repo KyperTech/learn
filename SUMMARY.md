@@ -4,4 +4,5 @@
 * First website
    * Designing
    * Building
+   * Deploying
 
