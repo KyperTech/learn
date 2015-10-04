@@ -8,4 +8,5 @@
 * Data and interactivity
    * Designing
    * Building
+   * Deploying
 
