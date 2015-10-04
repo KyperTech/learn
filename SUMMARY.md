@@ -8,6 +8,6 @@
    * [Deploying](first-website/deploying.md)
 * [Data and interactivity](data-and-interactivity/data-and-interactivity.md)
    * [Designing](data-and-interactivity/designing.md)
-   * Building
+   * [Building](data-and-interactivity/data-and-interactivity/building.md)
    * Deploying
 
