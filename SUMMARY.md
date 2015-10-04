@@ -7,4 +7,5 @@
    * Deploying
 * Data and interactivity
    * Designing
+   * Building
 
