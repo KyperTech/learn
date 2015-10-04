@@ -1,2 +1,2 @@
 # Data and interactivity
-This will be your introduction to javascript. We will use it to add interactivity to a web app and use it to retrieve and manipulate data from an HTTP endpoint.
+This will be your introduction to javascript. We will use it to add interactivity to a web app and use it to retrieve and manipulate data from an HTTP endpoint. Ultimately we are building a simple web application that will allow us to add, remove and edit a list of items of our choosing. Each list item will have a brief description and a rating.
