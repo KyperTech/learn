@@ -5,4 +5,5 @@
    * Designing
    * Building
    * Deploying
+* Data and interactivity
 
