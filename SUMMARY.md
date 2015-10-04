@@ -1,6 +1,6 @@
 # Summary
 
-* Intor
+* [Introduction](README.md)
 * Schedule
 * First website
    * Designing
