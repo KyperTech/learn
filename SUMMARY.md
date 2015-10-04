@@ -1,5 +1,6 @@
 # Summary
 
+* Intor
 * Schedule
 * First website
    * Designing
@@ -9,5 +10,4 @@
    * Designing
    * Building
    * Deploying
-* Intor
 
