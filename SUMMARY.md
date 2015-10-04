@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Schedule
+* [Schedule](schedule.md)
 * First website
    * Designing
    * Building
