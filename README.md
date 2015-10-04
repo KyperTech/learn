@@ -4,17 +4,6 @@ The primer for web design and development. This is a time intensive course that 
 This is a work in progress and currently only covers basic web development. Keep an eye out for updates :) *Psst! Once you create a Github account you can click the watch button at the top. Also click the star if you like what you see.*
 
 <!-- Each lesson will specify what tabs should be open and approximately how long it will take. -->
-## Schedule
-#### Day 1
-- First website > Designing > Lesson > Design a login form
-- First website > Designing > Project
-
-#### Day 2
-- First website > Coding > Lesson > Make a website
-
-#### Day 3
-- First website > Coding > Project
-- First website > Deploying > Project
 
 
 ## First website
