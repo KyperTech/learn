@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Schedule](schedule.md)
-* First website
+* [First website](first_website.md)
    * Designing
    * Building
    * Deploying
