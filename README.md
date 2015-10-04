@@ -56,6 +56,11 @@ This can be as hard as you want it to be. I searched for *static website hosting
 
 If you want a custom domain, buy one (I like to use [DNSimple](https://dnsimple.com)) and read up on [how to use a custom domain](https://www.bitballoon.com/docs/custom_domains/) with BitBalloon.
 
+## Playing with data and interactivity
+This will be your introduction to javascript. We will use it to add interactivity to a web app and use it to retrieve and manipulate data from an HTTP endpoint.
+
+### Designing
+Two very important facets of digital design are fonts and colors.   
 
 <!-- ## Versioning
 
