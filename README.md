@@ -12,12 +12,7 @@ This is a work in progress and currently only covers basic web development. Keep
 
 
 
-### Deploying
 
-#### Project
-This can be as hard as you want it to be. I searched for *static website hosting* and found [a great article](http://alignedleft.com/resources/cheap-web-hosting) comparing different hosting solutions and [BitBalloon](https://www.bitballoon.com/), a dead simple way to host a website. Drag your project folder into BitBalloon and you're live!
-
-If you want a custom domain, buy one (I like to use [DNSimple](https://dnsimple.com)) and read up on [how to use a custom domain](https://www.bitballoon.com/docs/custom_domains/) with BitBalloon.
 
 ## Playing with data and interactivity
 This will be your introduction to javascript. We will use it to add interactivity to a web app and use it to retrieve and manipulate data from an HTTP endpoint.
