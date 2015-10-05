@@ -1,1 +1,9 @@
-{}
+{
+  "gitbook": "2.3.3",
+  "structure": {
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [],
+  "pluginsConfig": {}
+  }
+}
