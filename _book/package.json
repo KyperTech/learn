@@ -1,0 +1,26 @@
+{
+  "name": "kyper-learn",
+  "version": "1.0.0",
+  "description": "Curriculum to get up and running in web development",
+  "devDependencies": {
+    "browser-sync": "^2.9.8",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.4.3"
+  },
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyperTech/learn.git"
+  },
+  "authors": [
+    "Mel van Londen <melvanlonden@gmail.com>",
+    "Prescott Prue <sprue.dev@gmail.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyperTech/learn/issues"
+  },
+  "homepage": "https://github.com/KyperTech/learn#readme"
+}
